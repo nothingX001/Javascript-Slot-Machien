@@ -10,11 +10,12 @@ This is a simple command-line game implemented in JavaScript. The game simulates
 
 ## Features
 
-User Interaction: The game interacts with users through the command line, allowing them to place bets and spin the slot machine.
-Randomized Outcomes: The slot machine results are randomized, providing a fair chance of winning.
-Betting System: Players can bet a specified amount and win based on the symbols that appear on the reels.
-Simple Design: The project is designed to be straightforward and easy to understand.
-Installation
+1. User Interaction: The game interacts with users through the command line, allowing them to place bets and spin the slot machine.
+2. Randomized Outcomes: The slot machine results are randomized, providing a fair chance of winning.
+3. Betting System: Players can bet a specified amount and win based on the symbols that appear on the reels.
+4. Simple Design: The project is designed to be straightforward and easy to understand.
+
+##Installation
 
 
 
