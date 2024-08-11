@@ -40,4 +40,4 @@ This project is licensed under the ISC License. See the LICENSE file for more de
 
 Contributing
 
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. All contributions are welcome!
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. All contributions are welcome! I am planning on styling this at a later time...
