@@ -32,10 +32,9 @@ Usage
 
 Once the dependencies are installed, you can run the slot machine game by executing the following command:
 
-bash
-Copy code
-node project.js
-Follow the on-screen prompts to place your bets and spin the reels.
+1. bash
+2. Copy code "node project.js"
+3. Follow the on-screen prompts to place your bets and spin the reels.
 
 
 
