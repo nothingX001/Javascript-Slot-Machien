@@ -1,14 +1,14 @@
-Slot Machine
+# Slot Machine
 
 
 
-Overview
+## Overview
 
 This is a simple command-line game implemented in JavaScript. The game simulates a basic slot machine where players can place bets, spin the reels, and potentially win based on the outcome. This project demonstrates the use of JavaScript for creating an interactive console-based application.
 
 
 
-Features
+## Features
 
 User Interaction: The game interacts with users through the command line, allowing them to place bets and spin the slot machine.
 Randomized Outcomes: The slot machine results are randomized, providing a fair chance of winning.
@@ -39,7 +39,7 @@ Follow the on-screen prompts to place your bets and spin the reels.
 
 
 
-Dependencies
+## Dependencies
 
 This project uses the following Node.js packages:
 
@@ -50,6 +50,6 @@ This project is licensed under the ISC License. See the LICENSE file for more de
 
 
 
-Contributing
+## Contributing
 
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. All contributions are welcome! I am planning on styling this at a later time.
+If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. All contributions are welcome! I plan on making an interactive web version at a later time.
