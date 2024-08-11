@@ -15,9 +15,7 @@ This is a simple command-line game implemented in JavaScript. The game simulates
 3. Betting System: Players can bet a specified amount and win based on the symbols that appear on the reels.
 4. Simple Design: The project is designed to be straightforward and easy to understand.
 
-##Installation
-
-
+## Installation
 
 To run the game, you will need to have Node.js installed on your machine. You can install the required dependencies using npm (Node Package Manager).
 
