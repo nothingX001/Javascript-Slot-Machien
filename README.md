@@ -51,6 +51,6 @@ This project is licensed under the ISC License. See the LICENSE file for more de
 
 
 
-## Contributing
+## Contributions
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. All contributions are welcome! I plan on making an interactive web version at a later time.
