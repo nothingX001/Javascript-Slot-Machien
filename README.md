@@ -15,6 +15,8 @@ This is a simple command-line game implemented in JavaScript. The game simulates
 3. Betting System: Players can bet a specified amount and win based on the symbols that appear on the reels.
 4. Simple Design: The project is designed to be straightforward and easy to understand.
 
+
+
 ## Installation
 
 To run the game, you will need to have Node.js installed on your machine. You can install the required dependencies using npm (Node Package Manager).
@@ -22,12 +24,13 @@ To run the game, you will need to have Node.js installed on your machine. You ca
 Clone the repository to your local machine.
 Navigate to the project directory.
 Install the dependencies by running the following command:
-bash
-Copy code
-npm install
-Usage
+1. bash
+2. Copy code
+3. npm install
 
 
+
+## Usage
 
 Once the dependencies are installed, you can run the slot machine game by executing the following command:
 
