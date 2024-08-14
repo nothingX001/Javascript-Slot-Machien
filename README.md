@@ -45,9 +45,6 @@ Once the dependencies are installed, you can run the slot machine game by execut
 This project uses the following Node.js packages:
 
 prompt-sync: A synchronous prompt for Node.js, used for capturing user input.
-License
-
-This project is licensed under the ISC License. See the LICENSE file for more details.
 
 
 
