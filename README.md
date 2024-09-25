@@ -4,7 +4,7 @@
 
 ## Overview
 
-This is a simple command-line game implemented in JavaScript. The game simulates a basic slot machine where players can place bets, spin the reels, and potentially win based on the outcome. This project demonstrates the use of JavaScript for creating an interactive console-based application.
+This is a simple command-line game implemented in JavaScript. The game simulates a basic slot machine where players can place bets, spin reels, and win (potentially) based on the outcome. This project demonstrates the use of JavaScript for creating an interactive console-based application.
 
 
 
